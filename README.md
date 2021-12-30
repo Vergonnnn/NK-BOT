@@ -14,7 +14,7 @@
  
 </details>
 <P align="center">
-⚡Un bot muy simple para whatsapp :D
+⚡BOT KIRAN MODS KILLER🖤❤️
 
 </p>
 
@@ -60,8 +60,8 @@ Para nuevos desde cero en termux:
 Para detener al bot en termux
 > Ctrl+z
 
-⚡Si necesitas mas ayuda puedes contactarme 
-+51 995 386 439
+❤️🖕🖤Si necesitas mas ayuda puedes contactarme 
++1 303 333 5333
 ```
 ## Partes donde puedes editar tu info :v
 - Edicion de tu numero, nombre del bot... [Esta direccion](https://github.com/NeKosmic/NK-BOT/blob/main/informacion.json)
@@ -80,18 +80,18 @@ Para detener al bot en termux
     }
 ```
 
-## Comentarios ó sugerencias :3
+## Comentarios ó sugerencias 
 
 ```bash
-> Si encuentran algun error me comentan ;)
+> Si encuentran algun error reportarme
 ```
 
-## Agradecido con el de arriba y a estos cracks :3
+## Nada es coincidencia Nada es casualidad
 
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
 * <a href="https://github.com/MhankBarBar"><img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-## Mi número por si necesitas ayuda nwn
+## Mi número por si necesitas ayuda weon
 
-<a href="https://wa.me/51995386439?text=Wenas...+deseo+aprender+instalar+al+bot"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/13033335333?text=Wenas...+deseo+aprender+instalar+al+bot"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
